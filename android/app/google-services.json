@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "323157445883",
+    "project_id": "voicecalldemo-961f2",
+    "storage_bucket": "voicecalldemo-961f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323157445883:android:78d1acce6a8f9b530c345e",
+        "android_client_info": {
+          "package_name": "com.example.call_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323157445883-hsae9otc67of7luv3mn02tov179268t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.call_demo",
+            "certificate_hash": "7a3e26efb242dd020968fe995bc8fb4c139aa1fc"
+          }
+        },
+        {
+          "client_id": "323157445883-07gmh6e6kbejopdql3oj5jthgsocd7sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1PXMrzxCk9LuHrmhcYv-ojYo4gaSS-jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323157445883-07gmh6e6kbejopdql3oj5jthgsocd7sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
